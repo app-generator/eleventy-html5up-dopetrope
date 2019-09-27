@@ -1,7 +1,6 @@
-﻿# [Eleventy Html5UP Dopetrope](https://eleventy-html5up-dopetrope.appseed.us)
+# [Eleventy Html5UP Dopetrope](https://appseed.us/static-site/eleventy-html5up-dopetrope)
 
-Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Dopetrope Design  
-
+Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Dopetrope Design - [Live DEMO](https://eleventy-html5up-dopetrope.appseed.us) 
 
 - Design: [HTML5up Dopetrope](https://html5up.net/dopetrope)
 - [11ty](https://www.11ty.io/)
@@ -22,6 +21,7 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Dopetr
 ## App Links
 
 - [Eleventy Html5UP Dopetrope](https://eleventy-html5up-dopetrope.appseed.us) - Live DEMO
+- [Eleventy Html5UP Dopetrope](https://appseed.us/static-site/eleventy-html5up-dopetrope) - Product Info
 
 <br />
 
@@ -48,4 +48,4 @@ $ # app is running on http://localhost:4000
 <br />
 
 ---
-[Eleventy Html5UP Dopetrope](https://eleventy-html5up-dopetrope.appseed.us) - provided by **AppSeed**
+[Eleventy Html5UP Dopetrope](https://appseed.us/static-site/eleventy-html5up-dopetrope) - provided by **AppSeed**
